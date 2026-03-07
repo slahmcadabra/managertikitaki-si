@@ -1,0 +1,9 @@
+1) Put your TikTok verification TXT file in this same folder root.
+2) Keep its exact filename, e.g. tiktokgtxxxxxxxxxxxx.txt.
+3) Commit all files to a public GitHub repository.
+4) Enable GitHub Pages from branch main, folder /(root).
+5) Use these URLs in TikTok Developer:
+   - Web/Desktop URL: https://<your-username>.github.io/<repo-name>/
+   - Terms URL: https://<your-username>.github.io/<repo-name>/terms-of-service.html
+   - Privacy URL: https://<your-username>.github.io/<repo-name>/privacy-policy.html
+   - Verify URL prefix: https://<your-username>.github.io/<repo-name>/
